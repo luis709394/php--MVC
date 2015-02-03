@@ -7,8 +7,8 @@ class Model {
 	//   save the connection variables here
 	private static $dbhost='localhost:3306';
 	private static $dbuser='root';
-	private static $dbpass='lu614000';
-	private static $dbname='php_practice';
+	private static $dbpass='yourpassword';
+	private static $dbname='yourdatabase';
 	private $db;
 
 	public function __construct() {
